@@ -1,4 +1,4 @@
-package com.chaithra.newtopic;
+package com.chai.newtopic;
 
 class Test{
 	static int a=20; // static variable

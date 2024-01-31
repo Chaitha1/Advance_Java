@@ -1,4 +1,4 @@
-package com.chaithra.newtopic;
+package com.chai.newtopic;
 
 final class Student { // it can't be extended by subclass
 	 final int x=10;

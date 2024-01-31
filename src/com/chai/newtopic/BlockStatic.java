@@ -1,4 +1,4 @@
-package com.chaithra.newtopic;
+package com.chai.newtopic;
 
 class Write{
 	static int a=10;

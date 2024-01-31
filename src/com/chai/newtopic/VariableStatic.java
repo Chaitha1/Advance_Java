@@ -1,4 +1,4 @@
-package com.chaithra.newtopic;
+package com.chai.newtopic;
 // Memory Allocation using Static 
 
 class Studente{

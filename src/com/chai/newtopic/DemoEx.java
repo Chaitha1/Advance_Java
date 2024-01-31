@@ -1,4 +1,4 @@
-package com.chaithra.newtopic;
+package com.chai.newtopic;
 
 public class DemoEx {
 	static int x=10;

@@ -1,4 +1,4 @@
-package com.chaithra.newtopic;
+package com.chai.newtopic;
 
 //A Singleton class in Java is a class that allows only one instance of itself to be 
 //created and ensures that there is only one instance of the class throughout the execution of the program.

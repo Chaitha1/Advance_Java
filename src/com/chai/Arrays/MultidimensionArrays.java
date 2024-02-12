@@ -2,15 +2,16 @@ package com.chai.Arrays;
 
 public class MultidimensionArrays {
 
-	
-	
-	
 
 	public static void main(String[] args) {
-	 // for the student Name and SRN we need use One-dimension Array
-		
-		
-	
+		int[] n = {1,2,3,4,3};
+		try {
+		 
+          System.out.println(n[7]);
+		}
+		catch (IndexOutOfBoundsException e) {
+			System.out.println("Out if index");
+		}
 		
 
 	}
